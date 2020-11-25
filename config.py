@@ -1,0 +1,1 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://<mysqluser>:<password>@<mysqlhostname>/<databasename>?charset=utf8'
